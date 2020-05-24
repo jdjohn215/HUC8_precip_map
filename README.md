@@ -1,7 +1,4 @@
----
-title: "Build these maps in R"
-author: "John Johnson"
----
+## Build these maps with R
 
 This repo contains all the data and code you need to build these two maps in R using the [`tmap` package](https://github.com/mtennekes/tmap).
 
